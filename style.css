@@ -54,6 +54,10 @@ body{
     border-bottom: solid 1px #f3f3f3;
 }
 
+#question-5{
+    border-bottom: 0px;
+}
+
 .faq-body ul li h2:hover{
     color: var(--orange-100);
     cursor: pointer;
